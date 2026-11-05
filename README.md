@@ -1,16 +1,15 @@
-## Hi there 👋
+# Personal website
 
-<!--
-**MichaelPen18WORK/MichaelPen18WORK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A simple, responsive personal website for an econometrics PhD candidate at the
+University of Groningen. The site is a standalone HTML page with no build step
+or external dependencies.
 
-Here are some ideas to get you started:
+## Preview
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Open `index.html` in a browser.
+
+## Personalize
+
+Update the about, research, publications, and contact sections in `index.html`
+with your details. Add direct links to your email address, CV, or academic
+profiles when you are ready to share them.
